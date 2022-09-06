@@ -1,0 +1,283 @@
+body{ 
+    margin: 0px;
+}
+*{ 
+    font-family: "Oswald",sans-serif;
+}
+
+.header{
+    height: 80px;
+    left: 0;
+    right: 0;
+    background-color:rgba(0, 0, 0, 0.79); 
+    color:white;
+    font-family: "Oswald",sans-serif;
+    position: fixed;
+    z-index: 50;
+}
+.logo{
+    width: 160px ; height: auto;
+    position: absolute;
+    top: 20px;
+    left: 20px
+}
+ul li{
+    display: inline-block;
+}
+.header_li1 li{
+    padding: 0 10px;
+}
+.header_li2 li{
+    padding: 0 10px;
+}
+.header a{
+    display:block ;
+    color:#ffffff;
+    text-decoration: none;
+}
+.header a:hover{
+    color: rgb(245, 73, 16);
+    text-decoration: none;
+}
+.right{
+    float: right;
+}
+.header_li1{
+    font-size: 15px;
+    margin-top: 15px;
+}
+.header_li2{
+    font-size: 20px;
+    margin-right: 10px;
+    margin-top: -7px;
+}
+.li-center b{
+    position: relative;
+}
+.li-center span{
+    font-size: 10px;
+    position: absolute;
+    left:50px
+}
+
+
+
+.background-v2{
+    width: 100%;
+    height: 760px;
+}
+
+
+
+.r7_intro{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 750px;
+}
+.intro_title1{
+    font-size: 50px;
+    border: solid 2px;
+    background-color: black;
+    border-radius: 50px 0px 0px ;
+    padding-left:30px ;
+    color: #fff; 
+}
+.intro_title2{
+    width: 500px;
+    color: #53575B;
+    padding: 15px 0 0px;
+    font-size: 15px;
+}
+.intro_title3{
+    font-size: 40px;
+}
+.intro_title4{
+    font-size: 30px;
+    border: solid red;
+    width: 350px;
+    height: 65px;
+    border-radius: 0px 0px 50px 0;
+    text-align: center;
+    padding: 10px;
+    background-color: red;
+    color: #fff;
+}
+.intro_img img{
+    display: block;   
+}
+.intro_img1{
+    margin-left:1000px;
+    margin-top: -300px;
+    width: 450px;
+}
+.intro_img2{
+    margin-left: 490px;
+    margin-top: -260px;
+    width: 600px;
+}
+
+
+
+.video_ytb{
+    background-color: #53575B;
+}
+.video_ytb_review{
+    padding: 50px;
+    margin-left: 250px;
+}
+
+
+
+
+.text_title{
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+    color: black;  
+}
+.ft_img{
+    width: 300px;
+    height: 140px;
+    padding: 10px;  
+}
+.feature{
+    display: flex; 
+    margin-left: 50px;
+}
+.feature p{
+    font-size: 14px;  
+}
+.feature h3{   
+    font-size: 15px;
+    text-align: center;
+    color: red;
+}
+.background_feature{
+    background-color:#53575B;
+    padding: 20px;
+    height: 420px;
+}
+.feature_r7{
+    padding: 5px;
+    width: 340px;
+    color: #53575B;
+}
+.box_feature{
+    background-color: black;
+    padding: 15px;
+    height: 370px;
+    border-radius: 20px; 
+}
+
+
+
+
+
+
+
+.title_ts{
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
+
+.ts{
+    display: flex;
+    text-align: center;
+    margin-left: 160px;
+}
+
+.ts_1{
+    margin-left:40px ;
+}
+
+.line{
+    border-bottom: solid red 5px;
+    font-size: 35px;
+}
+
+.text_ts{
+    font-size: 16px;
+    margin-top: -27px;
+    padding-top: 30px;
+}
+
+.ts_gr{
+    height: 650px;
+}
+td{
+    text-align: left;
+    padding: 10px;
+}
+table {
+    border-collapse: collapse;
+    width: 650px;
+  }
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+.table_ts{
+    margin: -250px 50px 1000px 700px
+  }
+.color_red{
+    color: red;
+    font-size: 20px;
+    padding-top: 10px;
+  }
+
+
+
+  .carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width:950px ;
+  margin: auto;
+}
+.background_container{
+    background-color: #53575B;
+    padding-top: 50px;
+}
+
+
+  
+  .end_web{
+    display: flex;
+    background-color: black;
+    color: #53575B;
+    padding: 100px;
+    
+  }
+  
+  .end_web_li1 img{
+    width: 20%;
+    
+  }
+  .end_web_li1 a{
+    
+    color: #53575B;
+  }
+  .font_size_end a:hover {
+    color: rgb(245, 73, 16);
+    text-decoration: none;
+
+
+  }
+  .end_web_li img{
+    width: 70%;
+  }
+  .end_web_li1{
+    padding: 30px;
+    width: 500px;
+   
+  }
+.flex_logo{
+    display: flex;
+    padding-top: 10px;
+}
+.flex_logo_pd{
+    padding-left: 10px;
+}
+
+
+
+
+
